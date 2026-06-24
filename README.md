@@ -103,7 +103,7 @@ A custom OpenSearch dashboard was built inside Wazuh to visualize login activity
 
 ## Screenshots
 
-![Wazuh Dashboard](screenshots/screenshots/wazuh-dashboard-login.png)
+![Wazuh Dashboard](screenshots/wazuh-dashboard-login.png)
 ![Security Events](screenshots/screenshots/security-events.png)
 ![Login Activity Dashboard](screenshots/screenshots/login-activity-dashboard.png)
 ![Custom Rules](screenshots/screenshots/custom-rules.png)
