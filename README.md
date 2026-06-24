@@ -1,5 +1,3 @@
-You're in the GitHub editor for README.md. Copy everything below and paste it into that editor:
-
 # Wazuh SIEM Home Lab — Threat Detection & Log Monitoring
 
 **Type:** Home Lab Project  
